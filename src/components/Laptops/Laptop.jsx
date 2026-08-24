@@ -3,7 +3,7 @@
 const Laptop = () => {
     return (
         <div>
-            <h1>I am From Laptop</h1>
+                <h1>This is Laptops</h1>
         </div>
     );
 };
